@@ -2,4 +2,4 @@
 
 Written by Angelo Joseph M. Salvador
 
-Ginawa ang project dahil makakalimutin at tinatamad ang nagsulat na mag-compute nang mag-compute ng posibleng maging earnings niya sa pagkakaroon ng investment
+This small project has been made because the author always forget formulas and he's also very lazy in manually computing his possible investment returns. This will run readily on any server that has PHP and Apache.
